@@ -1,1 +1,1 @@
-This is an alx practice repo
+This is an ALX training repo for Ayomide
